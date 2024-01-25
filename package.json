@@ -1,0 +1,29 @@
+{
+  "name": "test-id-start",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@material-tailwind/react": "^2.1.8",
+    "@svgr/webpack": "^5.5.0",
+    "autoprefixer": "^10.2.6",
+    "next": "^11.1.2",
+    "postcss": "^8.2.13",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-easy-swipe": "^0.0.23",
+    "react-feather": "^2.0.10",
+    "react-icons": "^5.0.1",
+    "tailwindcss": "^2.1.2"
+  },
+  "devDependencies": {
+    "eslint": "7.32.0",
+    "eslint-config-next": "11.1.2",
+    "prettier": "^2.3.0"
+  }
+}

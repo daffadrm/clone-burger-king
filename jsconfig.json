@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/vectors/*": [
+        "public/assets/vectors/*"
+      ],
+      "@/pages/*": [
+        "pages/*"
+      ],
+      "@/components/*": [
+        "components/*"
+      ],
+      "@/contexts/*": [
+        "contexts/*"
+      ],
+      "@/lib/*": [
+        "lib/*"
+      ]
+    }
+  }
+}
